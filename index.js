@@ -11,3 +11,7 @@ function distanceFromHqInFeet(location) {
 function distanceTravelledInFeet(a,b) {
   return Math.abs(a-b)*264;
 }
+
+function calculatesFarePrice(start, destination) {
+  
+}
